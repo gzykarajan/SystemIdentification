@@ -11,7 +11,7 @@ System Identification Test Python Codes
 6、RGLS。  
 
 模型预测算法包括：  
-SISO-DMC算法。  
+SISO-DMC算法（与辨识配合使用。先辨识、再控制）。  
 
 未来计划：  
 1、基于Hammerstein、Wiener模型的非线性系统辨识；  
