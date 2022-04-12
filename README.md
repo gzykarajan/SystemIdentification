@@ -13,6 +13,9 @@ System Identification Test Python Codes
 模型预测控制算法包括：  
 SISO-DMC算法（动态矩阵控制。与辨识配合使用。先辨识、再控制）。  
 
+PID控制方法包括：  
+增量控制算法，lambda整定模拟。  
+
 未来计划：  
 1、基于Hammerstein、Wiener模型的非线性系统辨识；  
 2、基于状态空间方程的MPC。  
